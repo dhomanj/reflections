@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By viewing two versions of a document side by side, one is easily able to discern the diffrences
+between both documents. The diffrence can be easily noted by variation in number of code lines
+in the document, characters in a string.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Effective version control can aid in becoming a efficent programmer because it allows for a visual represenation of progress
+that is more evidant then simply opening up a document after each revision. Since version control allows for a concrete representation of each iteration 
+of progress one can more easily modify and change code safetly and effectively.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Applications like Git are used typically when designing big projects spanning multiple files, if we think of each file as a cog in a machine each file must have 
+a certain coherence among the other files. For example, if i had index.html and css_index.css both files work in on conjunction to create a webpage meaning if modifications
+where made to one file I would need it to span across to index.html or vice versa to remain consistant. It's all about maining consistancy between web pages
+
+How might using version control make you more confident to make changes that could break something?
+
+Verion control fuels programmer confidence because it allows for more creative ways of approaching problems with the safety net
+of previous versions to hell nullify any issues made through new iterations.
