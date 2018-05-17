@@ -20,3 +20,5 @@ How might using version control make you more confident to make changes that cou
 
 Verion control fuels programmer confidence because it allows for more creative ways of approaching problems with the safety net
 of previous versions to hell nullify any issues made through new iterations.
+
+bobby dalone
